@@ -1,4 +1,4 @@
-import HelloWord from '../Components/HelloWord/HelloWord';
+import HelloWord from "../Components/HelloWord/HelloWord";
 
 export default function Home() {
   return (
